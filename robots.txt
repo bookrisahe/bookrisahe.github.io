@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bookrisahe.github.io/sitemap.xml
